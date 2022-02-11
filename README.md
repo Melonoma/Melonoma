@@ -28,12 +28,6 @@ Backend Security Engineer from Australia.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=z-Mythic&custom_title=My Github Stats&show_icons=true&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=20.5&v=5&count_private=true" alt="Marcus' Stats" />
 </a>
 <br>
-<p align="center"> 
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=z-Mythic&" alt="marcus"><br> -->
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/z-Mythic/count.svg" />
-</p>
-
 <!-- <a href="https://github.com/z-Mythic/weather_app">
   <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=z-Mythic&repo=weather_app&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=27&v=5" alt="Marcus' Stats" />
 </a>
