@@ -1,8 +1,8 @@
 # <p align="center">Hi <img src="https://i0.wp.com/brightestyoungthings.com/wp-content/uploads/2016/02/150754-bears-waving-gif-imgur-tumblr-jfGo.gif" width="35px">, I'm Marcus!</p>
-
+<center>
 **Welcome to my profile!**
-
 <img alt="image header" src="https://c.tenor.com/9pXcXtw81qMAAAAC/welcome-text.gif"/> 
+I'm a backend Security Engineer and Web Developer.
 
 ## ⚙️ My skills
 
@@ -25,5 +25,5 @@
 <a href="mailto:marcosvaas@gmail.com-">
 <img alt="eMail" src="https://img.shields.io/badge/marcosvaas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+</center>
 -------
