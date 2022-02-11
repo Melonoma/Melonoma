@@ -22,8 +22,6 @@
 
 ## Contact me
 
-<a href="mailto:marcosvaas@gmail.com-">
-<img alt="Discord" src="https://img.shields.io/badge/zMarcus#9641-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+Discord : zMarcus#9641
     
 -------
