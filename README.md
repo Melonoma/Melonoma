@@ -23,6 +23,6 @@
 ## Contact me
 
 <a href="mailto:marcosvaas@gmail.com-">
-<img alt="eMail" src="https://img.shields.io/badge/marcosvaas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img alt="Discord" src="https://img.shields.io/badge/zMarcus#9641-D14836?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 -------
