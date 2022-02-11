@@ -4,12 +4,6 @@
 
 <!-- [![Discord](https://img.shields.io/discord/933780821029031986.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/7EcQDxbAJc) -->
 
-<!-- [Join my Discord server!](https:/discord.gg/CtRp5GB)<br> -->
-<a href="https://discord.gg/CtRp5GB"><img src="https://invidget.switchblade.xyz/CtRp5GB?theme=dark"></a>
-<!-- <a href="https://discord.gg/7EcQDxbAJc">
-    <img src="https://img.shields.io/discord/933780821029031986.svg?logo=discord&colorB=7289DA" alt="Discord">
-  </a> -->
-
 <br />
 
 Backend Security Engineer from Australia. 
