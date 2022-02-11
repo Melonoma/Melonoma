@@ -37,8 +37,5 @@ Backend Security Engineer from Australia.
 <!-- <a href="https://github.com/z-Mythic/weather_app">
   <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=z-Mythic&repo=weather_app&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=27&v=5" alt="Marcus' Stats" />
 </a>
-<a href="https://github.com/z-Mythic">
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=z-Mythic&repo=py_games&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=27&v=5" alt="Marcus' Stats" />
-</a> -->
 
 <!--  https://naereen.github.io/badges/ All available badges-->
