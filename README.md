@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/python-%230095D5.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=3280ad)
 ![Lua](https://img.shields.io/badge/Lua-%234ea94b.svg?&style=for-the-badge&logo=lua&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-%234ea94b.svg?&style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 ## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> Github stats
 
