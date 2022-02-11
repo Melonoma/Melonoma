@@ -1,36 +1,53 @@
-<h1 align="center">Hi 👋, I'm Marcus <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A security engineer with experience in front and backend software development.</h3>
+### Hi there, I'm Marcus <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
+ 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=z-Mythic)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-- 🔭 I’m currently working on my **AI based anticheat solution**
+<!-- [![Discord](https://img.shields.io/discord/933780821029031986.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/7EcQDxbAJc) -->
 
-- 🌱 I’m currently learning **Python, Ruby, Swift**
+<!-- [Join my Discord server!](https:/discord.gg/CtRp5GB)<br> -->
+<a href="https://discord.gg/CtRp5GB"><img src="https://invidget.switchblade.xyz/CtRp5GB?theme=dark"></a>
+<!-- <a href="https://discord.gg/7EcQDxbAJc">
+    <img src="https://img.shields.io/discord/933780821029031986.svg?logo=discord&colorB=7289DA" alt="Discord">
+  </a> -->
 
-- 📫 How to reach me: **zMarcus#9641**
+<br />
 
-<h3 align="center">Languages and Tools:</h3>
+Backend Security Engineer from Australia. 
 
+- 🔭 I’m currently sleeping'
+- 💬 Contact me on Discord @zMarcus#9641
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+<a href="https://cheese.rip">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-Mythic&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="Marcus' Stats" />
+</a>
+<a href="https://cheese.rip">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=z-Mythic&custom_title=My Github Stats&show_icons=true&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=20.5&v=5&count_private=true" alt="Marcus' Stats" />
+</a>
+<br>
 <p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=z-Mythic&" alt="marcus"><br> -->
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/z-Mythic/count.svg" />
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=z-Mythic&theme=react&show_icons=true&include_all_commits=false" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-Mythic&theme=react&layout=compact" />
-</p>
+<!-- <a href="https://github.com/z-Mythic/weather_app">
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=z-Mythic&repo=weather_app&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=27&v=5" alt="Marcus' Stats" />
+</a>
+<a href="https://github.com/z-Mythic">
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=z-Mythic&repo=py_games&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=27&v=5" alt="Ra1nbow's Stats" />
+</a> -->
+<!-- <a href="https://cheese.rip">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=z-Mythic&layout=compact" alt="Marcus' Stats" />
+</a> -->
+
+<!--  https://naereen.github.io/badges/ All available badges-->
