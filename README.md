@@ -1,8 +1,8 @@
-# <p align="center">Hi <img src="https://i0.wp.com/brightestyoungthings.com/wp-content/uploads/2016/02/150754-bears-waving-gif-imgur-tumblr-jfGo.gif" width="35px">, I'm Marcus!</p>
+# <p align="center">Hi 👋, I'm Marcus!</p>
 
 **Welcome to my profile!**
-<center><img alt="image header" src="https://c.tenor.com/9pXcXtw81qMAAAAC/welcome-text.gif"/> <center>
-<center> I'm a backend Security Engineer and Web Developer. <center>
+
+<img alt="image header" src="https://c.tenor.com/9pXcXtw81qMAAAAC/welcome-text.gif"/>
 
 ## ⚙️ My skills
 
