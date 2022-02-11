@@ -1,35 +1,36 @@
-### Hi there, I'm Marcus <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
- 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=z-Mythic)](https://github.com/ryo-ma/github-profile-trophy) -->
+# <p align="center">Hi <img src="https://i0.wp.com/brightestyoungthings.com/wp-content/uploads/2016/02/150754-bears-waving-gif-imgur-tumblr-jfGo.gif" width="35px">, I'm Marcus!</p>
 
-<!-- [![Discord](https://img.shields.io/discord/933780821029031986.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/7EcQDxbAJc) -->
+**Welcome to my profile!**
 
-<br />
+<img alt="image header" src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/imgs/header.png"/> 
 
-Backend Security Engineer from Australia. 
+## ⚙️ My skills
 
-- 🔭 I’m currently sleeping'
-- 💬 Contact me on Discord @zMarcus#9641
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=3d3919)
+![Python](https://img.shields.io/badge/python-%230095D5.svg?&style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=3280ad)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
+![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
+![Arch](https://img.shields.io/badge/Arch%20Linux-0B2541?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-**Languages and Tools:**  
+## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> Github stats
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<p align="center">
+    <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=marcos-inja&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
+    /> <br>
+    <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-inja&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
+</p>
 
-<a href="https://cheese.rip">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-Mythic&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="Marcus' Stats" />
-</a>
-<a href="https://cheese.rip">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=z-Mythic&custom_title=My Github Stats&show_icons=true&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=20.5&v=5&count_private=true" alt="Marcus' Stats" />
-</a>
-<br>
-<!-- <a href="https://github.com/z-Mythic/weather_app">
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=z-Mythic&repo=weather_app&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=27&v=5" alt="Marcus' Stats" />
+## Contact me
+
+<a href="mailto:marcosvaas@gmail.com-">
+<img alt="eMail" src="https://img.shields.io/badge/marcosvaas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<!--  https://naereen.github.io/badges/ All available badges-->
+-------
+Credits: [marcos-inja](https://github.com/marcos-inja)
+
+Last Edited on: 26/10/2021
