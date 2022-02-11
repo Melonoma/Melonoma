@@ -1,8 +1,8 @@
 # <p align="center">Hi <img src="https://i0.wp.com/brightestyoungthings.com/wp-content/uploads/2016/02/150754-bears-waving-gif-imgur-tumblr-jfGo.gif" width="35px">, I'm Marcus!</p>
-<center>
+
 **Welcome to my profile!**
-<img alt="image header" src="https://c.tenor.com/9pXcXtw81qMAAAAC/welcome-text.gif"/> 
-I'm a backend Security Engineer and Web Developer.
+<center><img alt="image header" src="https://c.tenor.com/9pXcXtw81qMAAAAC/welcome-text.gif"/> <center>
+<center> I'm a backend Security Engineer and Web Developer. <center>
 
 ## ⚙️ My skills
 
@@ -10,7 +10,7 @@ I'm a backend Security Engineer and Web Developer.
 ![Python](https://img.shields.io/badge/python-%230095D5.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=3280ad)
 ![Lua](https://img.shields.io/badge/Lua-%234ea94b.svg?&style=for-the-badge&logo=lua&logoColor=white)
-![Ruby](https://img.shields.io/badge/Lua-%234ea94b.svg?&style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-%234ea94b.svg?&style=for-the-badge&logo=ruby&logoColor=white)
 
 ## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> Github stats
 
@@ -25,5 +25,4 @@ I'm a backend Security Engineer and Web Developer.
 <a href="mailto:marcosvaas@gmail.com-">
 <img alt="eMail" src="https://img.shields.io/badge/marcosvaas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</center>
 -------
