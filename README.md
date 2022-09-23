@@ -1,4 +1,4 @@
-<center> ![Enjoyer](https://img.shields.io/badge/Porn-Hub-orange) </center>
+![Enjoyer](https://img.shields.io/badge/Porn-Hub-orange)
 
 ---
 
