@@ -1,6 +1,6 @@
 ![Enjoyer](https://img.shields.io/badge/Porn-Hub-orange) Enjoyer
 
-I do a little coding on the side, nothing special.
+Creating random things when im bored. I rarely upload here but im trying to fix that.
 
 ---
 <p>
